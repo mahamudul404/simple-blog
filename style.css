@@ -172,22 +172,6 @@ a:hover{
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 /* media query for mobile screen */
 @media (max-width: 768px) {
   .container {
@@ -240,5 +224,33 @@ a:hover{
   }
   .footer{
     position: relative;
+  }
+  .about-section{
+    margin-left: 1rem;
+    margin-right: 1rem;
+  }
+  .about-section p{
+    margin-left: 1rem;
+    margin-right: 1rem;
+  }
+  .about-section h2{
+    margin-left: 1rem;
+    margin-right: 1rem;
+  }
+  .about-section ul{
+    margin-left: 1rem;
+    margin-right: 1rem;
+  }
+  .about-section li{
+    margin-left: 1rem;
+    margin-right: 1rem;
+  }
+  .about-section a{
+    margin-left: 1rem;
+    margin-right: 1rem;
+  }
+  .about-section span{
+    margin-left: 1rem;
+    margin-right: 1rem;
   }
 }
